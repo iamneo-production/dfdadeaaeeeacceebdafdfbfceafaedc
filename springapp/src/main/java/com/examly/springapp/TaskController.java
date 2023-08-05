@@ -1,4 +1,4 @@
-public package com.examly.springapp;
+package com.examly.springapp;
 
 import java.util.List;
 
@@ -60,7 +60,4 @@ public class TaskController {
         }
         return ResponseEntity.ok(task);
     }
-}
- TaskController {
-    
 }
