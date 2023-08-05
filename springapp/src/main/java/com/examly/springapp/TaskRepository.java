@@ -1,4 +1,4 @@
-public package com.examly.springapp;
+package com.examly.springapp;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
