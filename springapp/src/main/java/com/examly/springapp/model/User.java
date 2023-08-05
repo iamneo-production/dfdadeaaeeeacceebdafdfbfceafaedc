@@ -11,7 +11,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 @Entity
-@Table(name = "abc1")
+@Table(name = "task")
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
